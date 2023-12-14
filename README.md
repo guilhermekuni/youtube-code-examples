@@ -8,7 +8,7 @@ This repository is a list of other repositories with code examples used on my Yo
 
 ### Avoiding too many renders
 - **Video (pt-br):** [Como evitar MUITOS renders no React!](https://www.youtube.com/watch?v=WIa926Lf9rA)
-- **Code:** 
+- **Code:** https://github.com/guilhermekuni/youtube-react-render-refactor
 
 ### Tutorial: Context API in React
 - **Video (pt-br):** [Aprenda como usar a Context API do React!]()
